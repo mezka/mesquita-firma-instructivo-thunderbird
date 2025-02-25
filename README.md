@@ -1,4 +1,4 @@
-#INSTRUCTIVO PARA CONFIGURAR LA FIRMA EN MOZILLA THUNDERBIRD
+# INSTRUCTIVO PARA CONFIGURAR LA FIRMA EN MOZILLA THUNDERBIRD
 
 1. Descargar el archivo de la firma
 ![Descargar firma](images/firma_download.png)
